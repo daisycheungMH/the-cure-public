@@ -2,7 +2,7 @@
 
 # The Cure, Player Performance Script
 
-**St. Jude's Progressive Care, VIP Wing.** You are a suspect, a witness, or both. This booklet has lines to deliver and scenes to play. It does **not** have the full mystery solution.
+**St. Saphicca's Progressive Care, VIP Wing.** You are a suspect, a witness, or both. This booklet has lines to deliver and scenes to play. It does **not** have the full mystery solution.
 
 ---
 
@@ -14,7 +14,7 @@
 
 **Only read the act you are in.** When the facilitator says you are in Act 1, read through Act 1 and **stop**. Do not read Act 2 until the facilitator opens it. Same for Acts 3 and 4. Spoilers ruin the night for everyone.
 
-**Lines marked (PLAYER)** are yours when that scene is reached. Optional lines are yours to use or skip. Stage directions in *italics* are mood or movement, not spoken aloud.
+**Lines under your character name** are yours when that scene is reached. Optional lines are yours to use or skip. Brief notes in parentheses are scene cues only, not persona reminders. Stage directions in *italics* are mood or movement, not spoken aloud.
 
 **NARRATOR** blocks are read by the facilitator. Listen, then play.
 
@@ -28,7 +28,7 @@
 - Death in the OR is fixed canon. You cannot rewind the murder.
 - Your dossier **✓** and **✗** rules still apply.
 
-**Personas:** Play big and fun. Arrogant Homes, genki Vance, valley Melody, German knight Sachs, nervous Alfie, charming Curie, southern belle Diamond, surfer bro Jetski. Same story, louder choices.
+**Personas:** Play big and fun. Your dossier and [14-actor-personas.md](14-actor-personas.md) have how to play your character.
 
 ---
 
@@ -40,11 +40,15 @@
 
 ## PROLOGUE: VIP CONSULTATION SUITE
 
-*Before surgery. Only **Alex**, **Homes**, and **Pepper** speak in this scene unless the facilitator casts others as silent presence.*
+*Before surgery. Only **De Worsti**, **Homes**, and **Pepper** speak in this scene unless the facilitator casts others as silent presence.*
 
-Soft lighting. Glass walls. Storm over Lesbian City skyline.
+### NARRATOR
 
-> **HOMES:** Your imaging shows a compromised arterial wall. This case is legitimate. Your intake file is still… unusually sparse, Mr. Austin.  
+> St. Saphicca's Progressive Care rises above Lesbian City in glass and white stone, a hospital built for people who pay not to wait. Tonight the VIP consultation suite is still calm, soft light on the walls, the skyline visible through floor-to-ceiling windows.
+>
+> Inside St. Saphicca's, the generators hum. Nurses trade jokes about staying late. Security checks a door and goes back to coffee. The staff believe they are above the water line, protected, busy with one very expensive patient. They have not been told how fast the night is about to narrow.
+
+> **HOMES:** Your intake file is still… unusually sparse, Mr. De Worsti.  
 > **ALEX:** I prefer efficiency. Whatever this costs, double it. So please, no delays. No mistakes.  
 > **PEPPER:** (quietly) We don't prioritize patients that way.  
 > **ALEX:** Everyone prioritizes something.
@@ -61,13 +65,13 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 ### NARRATOR: OPEN
 
-> VIP Operating Theater Two. St. Jude's Progressive Care.  
+> VIP Operating Theater Two. St. Saphicca's Progressive Care.  
 > Storm against the glass. Inside: sterile green, machine hum, the steady beep of a heart that still believes in tomorrow.
 
 > **HOMES:** Arterial wall's more compromised than imaging suggested. This is borderline rupture.  
 > Jetski, tighten control. I want zero drift. Pepper, clamp.
 
-**PEPPER** (PLAYER: crisp, professional; fear not yet in the room):
+**PEPPER** (crisp, professional; fear not yet in the room):
 
 > Clamp in.  
 > (beat, reading monitor)  
@@ -75,7 +79,7 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 > **HOMES:** Then we stabilize it. We're not chasing this. We control it.
 
-**JETSKI** (PLAYER: uneasy, surfer bro slipping through):
+**JETSKI** (uneasy):
 
 > …hold on, man.  
 > (blinks hard)  
@@ -85,13 +89,17 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 *The lights cut. Total darkness. Then emergency red.*
 
+### NARRATOR
+
+> In the red dark you hear IV lines tugged free, machines clicking off, then a body dragged from the table and thrown hard to tile. A wet violent sound follows, a scalpel driven into a deadly place at the throat. Dr. Homes stands frozen, and the first thing the emergency lights give him is De Worsti on the floor, mouth twisted open in a silent plea, blood spreading from a ragged passionate wound, pale and shining, piled wrong between dropped sterile gauze and a monitor cable still swinging. Rejected meat from a butcher's back room, the mound customers never see, only here the steel was laid out to close wounds, the air still sweet with antiseptic, the tile meant to be washed clean between cases. The heart monitor screams one long tone into the silence.
+
 > **HOMES:** (breathing uneven)  
 > No… no, that's...  
 > I lost visibility. I couldn't...  
 > (looking around, frantic)  
 > Someone was here. Someone was *in* this room.
 
-**PEPPER** (PLAYER: first movement; small, broken sound):
+**PEPPER** (first movement; small, broken sound):
 
 > …nnh...
 
@@ -110,7 +118,7 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 > (trying to make sense of it; voice breaking)  
 > We were all right here. What happened to him... **what happened to him...**
 
-**HOMES** (PLAYER):
+**HOMES**:
 
 > Pepper... I didn't... the lights...
 
@@ -136,54 +144,54 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 > The VIP Recovery Lounge was built for donors and executives, soft light, skyline views, the illusion that nothing here could go wrong.  
 > Tonight the generators stutter. Rain lashes the glass. Somewhere below, a municipal radio repeats the same sentence: *hold position, no ETA.*  
 > Officer Ray has pulled everyone with access to this wing into one room. Officer Diamond is with him. Not a request. The wing is locked down.  
-> The body of Alex Austin is still in the operating theater. The blood on Dr. Homes's gloves has not fully dried.  
+> The body of De Worsti is still in the operating theater. The blood on Dr. Homes's gloves has not fully dried.  
 > And eleven people who hated the dead man, or loved him, or owed him, are about to learn they cannot leave until someone answers for what happened in the dark.
 
 ### SCENE: THE BRIEFING
 
 > **RAY:** I'm Officer Ray. I run security here. Used to work for the city cops. Right now I'm the senior guard in this building. Officer Diamond's with me.
 
-**DIAMOND** (PLAYER: southern belle, pleasant, already painting a nail):
+**DIAMOND** (already painting a nail):
 
 > And I'm Officer Diamond. Junior guard. I work with Ray, not around him. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
 
 > **RAY:** (beat)  
-> At eleven forty-two, Alex Austin died in VIP OR Two. Throat cut. One clean cut.  
+> At eleven forty-two, De Worsti died in VIP OR Two. Throat opened with a scalpel. Violent. Almost crazed.  
 > Lights were out about a minute. When they came back, Dr. Homes was standing over him with a scalpel in his hand.
 
-**HOMES** (PLAYER: defensive, immediate):
+**HOMES** (defensive, immediate):
 
 > That is not... I did not kill him. I lost the blade when the grid dropped. Someone was in that room.
 
-**CURIE** (PLAYER: warm, unruffled, room immediately calmer):
+**CURIE**:
 
 > Doctor, you'll get your turn. All of you will.
 
 > **CURIE:** I'm Dr. Curie, Chief of Surgery. Until Municipal Watch gets through the flood, and they are not here yet, I am medical liaison on this death.  
 > That means cause, mechanism, and whether anyone in this room had the skill and the access to do what was done.
 
-**RAY** (PLAYER: gruff, almost softening):
+**RAY**:
 
 > And I'm the security here. We figure this out together, or we stumble around in the dark.
 
-**CURIE** (PLAYER: smile, serious shutdown):
+**CURIE**:
 
 > Officer, I'd flirt back, but we have a corpse and a flood. Another time.
 
-**PEPPER** (PLAYER: **sharp ahem**; comedic beat):
+**PEPPER** (**sharp ahem**; comedic beat):
 
 > *(clears throat)*  
 > …Can we stay on the dead man?
 
-**HOMES** (PLAYER: bristling):
+**HOMES** (bristling):
 
 > Christ. Could we investigate the murder instead of...
 
-**CURIE** (pleasant, devastating):
+**CURIE** (devastating):
 
 > Doctor, when you have an alibi, I'll schedule around your preferences.
 
-**LACEY** (PLAYER: ice, administrative):
+**LACEY**:
 
 > Officer. I have counsel on standby. This hospital will cooperate within regulatory...
 
@@ -191,7 +199,7 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 > **RAY:** I called the real cops. They logged it. Answer back was wait, roads are flooded. No patrol car. No detective. Nobody's coming up those elevators for hours.  
 > (beat, harder)  
-> I know how this looks. Austin had dirt on half this city. He had dirt on me too. I'm a suspect same as you. I'm also running this wing until those sirens show up.  
+> I know how this looks. De Worsti had dirt on half this city. He had dirt on me too. I'm a suspect same as you. I'm also running this wing until those sirens show up.  
 > Nobody leaves. Nobody. You talk in this room, or I stick you in separate rooms and let the real cops sort it in the morning.
 
 > **CURIE:** (to the room) The officer's right. If we don't build the case tonight, the case will be built for us, by people who weren't in the building when the lights died.
@@ -200,17 +208,17 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 > **RAY:** Give us your names. Jobs. Where you were when the red lights came on. One at a time. Jetski, you're first. You're half why this room was knocked out.
 
-**JETSKI** (PLAYER, shaking, furious at the framing; occasional surfer slip):
+**JETSKI** (shaking, furious at the framing):
 
 > Dr. Jetski. Anesthesiology. Dude, I was at the south wall monitoring IV delivery and I went down before the lights even cut, lag, paralysis, I couldn't move, I couldn't see straight. Ask Pepper. I was on the floor when it happened.
 
-**PEPPER** (PLAYER, clinical mask over horror):
+**PEPPER** (clinical mask over horror):
 
 > He's not lying about the timing. I felt it too, cognitive lag, motor drop. We were incapacitated before the incision.  
 > (beat, unwilling)  
-> I was assisting Dr. Homes. Alex was on the table. When the red lights came back… Homes had the scalpel. Austin was gone.
+> I was assisting Dr. Homes. De Worsti was on the table when the lights died. When the red lights came back he was on the floor… Homes had the scalpel. De Worsti was gone.
 
-**HOMES** (PLAYER):
+**HOMES**:
 
 > I was primary surgeon. The arterial wall was compromised, we were stabilizing. Jetski reported drift. Then black. I felt the blade pulled from my grip. I shouted for backup power. When the lights returned I was still holding  
 > (voice cracking)  
@@ -218,7 +226,7 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 **CURIE** (quiet, surgical):
 
-> The incision profile doesn't match panic. It matches training.
+> The wound was not panic. It was passionate, almost crazed. But a scalpel did it, and that could be a surgeon's hand or a man's rage.
 
 > **RAY:** You're my main guy until I hear better. Sit down.
 
@@ -226,7 +234,7 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 > **RAY:** The rest of you. What were you doing in my wing tonight?
 
-**MELODY** (PLAYER, valley gossip, ditzy top layer):
+**MELODY**:
 
 > Melody! Night reception? Like, I was at the desk, I called the code when the monitor flatlined, oh my god, and I saw *everyone* coming and going all night. Including
 
@@ -234,7 +242,7 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 > **MELODY:** Officer Diamond? Where is that blouse from? It is, like, literally gorgeous on you.
 
-**DIAMOND** (PLAYER, kind):
+**DIAMOND**:
 
 > Oh, bless you, honey. Thrift store in the Quarter, then I fixed the cuffs myself. You have good eyes.
 
@@ -246,7 +254,7 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 > Including things that don't match the visitor log. Ask your IT guy about the cameras. Ask about the page missing from the keycard book.
 
-**VANCE** (PLAYER, genki speed, then wilt):
+**VANCE**:
 
 > Hi! Hi. CD Vance. IT contractor? Server room! Storm failover, corridor three offline, Director Lovely's audit, and also, um. Other requests. I don't do violence, I do logs, I do Python, I do panic
 
@@ -254,31 +262,33 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 > **RAY:** (flat) Other requests. We'll come back to logs. And to you.
 
-**SACHS** (PLAYER, lazy menace, German accent; lines as written):
+**SACHS**:
 
-> He does what keeps his pones in one piece. Like everypody else in this room who isn't holting a scalpel.
+> He does what keeps his pones in one piece. Like any contractor who does not want the project cancelled.
 
-**ALFIE** (PLAYER, defensive, too loud):
+**ALFIE** (smug, too casual):
 
-> Alfie Austin. Alex's brother. I was a delivery. Medical supplies. That's on the manifest.
+> Alfie De Worsti. De Worsti's brother. I was a delivery. Medical supplies. That's on the manifest.
 
-**SACHS** (PLAYER, knight formality, dangerous amusement, German accent):
+**SACHS**:
 
-> Swastika Sachs. You want the name on my pirth certificate or the one your mother kave you?
+> Uvula Sachs. You want the name on my pirth certificate or the one your mother kave you?
+
+> *(to room, suddenly)* Wait. Stop. Who is running this introduction? No one? Ah. That explains the vibe in this room immediately.
 
 > **RAY:** (immediate) Where were you at eleven forty-two?
 
 **SACHS:**
 
-> Perimeter. VIP access corridor. A soldier posts where she's tolt. Alex owet the realm money. I owet the realm answers. I dit not owe him a throat cut in the tark.
+> Perimeter. VIP access corridor. Eleven forty-two, **not** "around" eleven forty-two. I post where I'm told. De Worsti owed money. I owed answers. I did not owe him a throat cut in the dark.
 
-> Put if you're asking who in this room looks like they just left an OR? You're staring at him, Officer.
+> And if you're asking who in this room looks like they just left an OR? You are staring at him, Officer. Motive, opportunity, blood on his hands. Why are we still using vibes?
 
-**LACEY** (PLAYER, controlled):
+**LACEY**:
 
 > Lacey Lovely. Hospital Director. I was in administration, two floors up, managing grid instability and crisis protocol when the wing failed over. I did not enter the operating theater.
 
-**CURIE** (PLAYER, does not block):
+**CURIE** (does not block):
 
 > Good. Pull it. Executive tier on a night like this is a lead.  
 > (to Ray, professional)  
@@ -286,25 +296,25 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 ### THE ACCUSATION
 
-> **RAY:** Let's be plain. Everyone hated Austin. Loan shark in a hospital gown. Half of you wanted him dead.  
+> **RAY:** Let's be plain. Everyone hated De Worsti. Loan shark in a hospital gown. Half of you wanted him dead.  
 > But only one guy was standing over the body, blood on his hands, scalpel in his grip when the lights came back.  
 > Dr. Homes, you're my main suspect.
 
-**HOMES** (PLAYER, standing, rage):
+**HOMES** (standing, rage):
 
 > This is insane. Curie, you're Chief of Surgery, you know that cut was
 
-**CURIE** (PLAYER, gentle, devastating):
+**CURIE** (devastating):
 
 > I know what I know. And right now I know you were holding the instrument.
 
-**PEPPER** (PLAYER, torn, quiet):
+**PEPPER** (torn, quiet):
 
 > …I don't think you did it.
 
 > **PEPPER:** I don't know what I think. I was on the floor. I saw you standing there. I saw
 
-**JETSKI** (PLAYER, small):
+**JETSKI** (small):
 
 > Bro, I was paralyzed. He wasn't the only surgeon in this building.
 
@@ -313,31 +323,31 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 ### CURIE: THE ASK
 
 > **CURIE:** Officer Ray cannot process a coordinated murder alone. I cannot autopsy a conspiracy from a cot.  
-> Every person in this lounge was inside the VIP wing when Alex Austin died. That makes you witnesses, suspects, or both.  
+> Every person in this lounge was inside the VIP wing when De Worsti died. That makes you witnesses, suspects, or both.  
 > The municipal watch is not walking through that flood tonight. The killer may still be in this wing, I don't say that to panic you. I say it because it's true.  
 > So here's what happens next. We log evidence. You don't get to go home and invent an alibi in the rain.
 
-> **RAY:** Find me something that proves Homes didn't do it.   
+> **RAY:** Find me something that proves Homes didn't do it.  
 > Or Homes sits alone and I talk to the rest of you one by one in rooms with no windows.  
 > You don't have to like me. You do have to stay.
 
 ### JETSKI: THE ROOM GOES QUIET
 
-**JETSKI** (PLAYER: quiet, not performing, genuinely unsettled; surfer bro mostly gone):
+**JETSKI** (quiet, not performing, genuinely unsettled):
 
 > You know what keeps turning in my head?  
 > (beat)  
 > We keep asking who was in the OR. Who had the blade. Who was out in the storm.  
-> But whoever killed Austin didn't have to be out there.  
+> But whoever killed De Worsti didn't have to be out there.  
 > They could be right here. In this lounge. Listening. Helping us decide who to blame.  
 > (quieter, to Pepper or the room)  
 > That's the part that's going to stay with me, man.
 
-**CURIE** (optional, pleasant):
+**CURIE** (optional):
 
 > Doctor, you're medicated and you're frightened. That's fair. Let's channel it into evidence.
 
-**RAY** (optional, gruff):
+**RAY** (optional):
 
 > Yeah. Fine. Now we work.
 
@@ -365,19 +375,19 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 *Recovery ward. Toxicology. Logs. Pressure on Lacey and Vance.*
 
-**CURIE** (PLAYER: to Ray, quiet wit):
+**CURIE** (to Ray):
 
 > They also don't panic. Give him air, Officer, you'll get a better witness.
 
-**RAY** (PLAYER: gruff fondness):
+**RAY**:
 
 > Don't tell me how to ask questions.
 
-**CURIE** (PLAYER: smile, serious):
+**CURIE**:
 
 > I'd never. I'm only suggesting you look handsome when you're not shouting.
 
-**PEPPER** (PLAYER: **ahem**, entering with folder):
+**PEPPER** (**ahem**, entering with folder):
 
 > *(clears throat, deadpan)*  
 > Toxicology's ready. Whenever you two are **done**.
@@ -386,29 +396,29 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 > **RAY:** Pharmacy vault got opened. Top-level clearance. **Lacey Lovely.**  
 > **RAY:** Power got cut around the same time. That's not a coincidence. I want everything on her. Who she let in. What she's been doing.
 
-**CURIE** (PLAYER: calm authority, not obstruction):
+**CURIE**:
 
 > Run it. You should run it. Executive codes on a night like this are a lead. Full stop.  
 > (beat)  
 > My surgical opinion? A hospital director doesn't usually personally execute a patient on her own OR table. The access pattern fits a **facilitator**, not a cutter. Unlikely as primary actor, but unlikely isn't innocent. Pull her file. I'm not standing in your way.
 
-**RAY** (PLAYER: short nod, trusts the tone):
+**RAY** (short nod, trusts the tone):
 
 > Good. Then we're chasing it.
 
-**DIAMOND** (PLAYER, optional, painting a nail, outlandish but specific):
+**DIAMOND** (optional, painting a nail, outlandish but specific):
 
 > Honey, what if the director didn't do the cutting because she was two floors up showing she *couldn't* have been in that room? That's not innocent. That's planning.
 
-**RAY** (PLAYER, optional, gruff):
+**RAY** (optional):
 
 > Write it down. Don't preach it yet.
 
-**CURIE** (PLAYER: brushes nonexistent lint from Ray's shoulder; casual):
+**CURIE** (brushes nonexistent lint from Ray's shoulder; casual):
 
 > You've got a good instinct. Keep it.
 
-**PEPPER** (PLAYER: optional, under breath):
+**PEPPER** (optional, under breath):
 
 > *(ahem)*
 
@@ -418,25 +428,25 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 > Vance. You. Now. If Sachs put you up to anything in my building tonight, start talking before I hand you to her.
 
-**VANCE** (PLAYER: genki speed collapse; breaking):
+**VANCE**:
 
 > Okay okay okay... so Sachs was like, *find the wife*, and I was like *eep* but also the query was already running? Clinic databases, reconstruction intake flags, hospital admin cross ref... I was looking for whoever stole his money! I didn't know her **name**! I didn't know it was *her*...
 
-> **VANCE:** I'm not realted to the victim, I was just helping a debt collector hunt a woman who ran. That's what he built. Men like Austin make you dig with your own hands and your own cute little keyboard, and I'm so sorry...
+> **VANCE:** I'm not realted to the victim, I was just helping a debt collector hunt a woman who ran. That's what he built. Men like De Worsti make you dig with your own hands and your own cute little keyboard, and I'm so sorry...
 
-**SACHS** (PLAYER: snarling, German accent):
+**SACHS** (efficiency rage, not snarling):
 
-> You ton't get to moralize. You were on the clock.
+> You ton't get to moralize. You were on the clock. And your timeline is still wrong—"around when Sachs asked" is not a timestamp.
 
-**CURIE** (PLAYER: to window, dry charm):
+**CURIE** (to window):
 
 > Some people don't die in hospitals, Officer… they get released.
 
-**RAY** (PLAYER: tired smile he hates himself for):
+**RAY** (tired smile he hates himself for):
 
 > You say stuff like that so I forget you're on my list.
 
-**CURIE** (PLAYER: without turning):
+**CURIE** (without turning):
 
 > I'm on your board. I'm also the best partner you've got tonight. Use me accordingly.
 
@@ -462,7 +472,7 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 > **RAY:** Did you see who...  
 > **CURIE:** Move!
 
-**MELODY** (PLAYER, weak, if antidote succeeds):
+**MELODY** (weak, if antidote succeeds):
 
 > It's not just him… it's everything… all of you…
 
@@ -482,11 +492,11 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 ## ACT 4: ALFIE REVEALS GENEVIEVE
 
-**RAY** (PLAYER, hard):
+**RAY** (hard):
 
 > Your brother kept a wife locked up for years. Detective file says new face. New name. You said you came here with medical supplies. Start talking straight.
 
-**ALFIE** (PLAYER: must deliver; do not skip; truth through uncertainty):
+**ALFIE** (must deliver; do not skip; truth through uncertainty):
 
 > I... look. I'm not trying to bury my brother. I'm not trying to hang anyone either. I just… I can't keep my mouth shut anymore.
 >
@@ -496,7 +506,7 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 >
 > (glances at **Lacey**, pained)
 >
-> Alex wasn't just a lender. Not at the end. He was… whatever he became. Men like Sachs at the door. Ledgers. Genevieve didn't run that house, she **survived** it, as best I could tell from the outside. I think he moved her when he wanted. I think he took her phone when he wanted. I **saw** bruises once. Holidays where she wouldn't eat. I could be wrong about some of it, he told the family she was unstable, and when you're family you want to believe that.
+> De Worsti wasn't just a lender. Not at the end. He was… whatever he became. Men like Sachs at the door. Ledgers. Genevieve didn't run that house, she **survived** it, as best I could tell from the outside. I think he moved her when he wanted. I think he took her phone when he wanted. I **saw** bruises once. Holidays where she wouldn't eat. I could be wrong about some of it, he told the family she was unstable, and when you're family you want to believe that.
 >
 > (voice cracks)
 >
@@ -504,25 +514,25 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 >
 > (beat, softer)
 >
-> When she disappeared, when she took money and ran, Alex called it theft. Like she was property. Hunters. Clinic lists. I didn't know where she landed. I'm **not** saying I have proof of every step.
+> When she disappeared, when she took money and ran, De Worsti called it theft. Like she was property. Hunters. Clinic lists. I didn't know where she landed. I'm **not** saying I have proof of every step.
 >
 > (hesitates)
 >
-> There's an intake photo. Mainland clinic. Scar above the left ear, glass, years ago, I **think** it was her. Total reconstruction, maybe. New name. New life. I could be connecting dots that aren't, except Alex needed the surgery, sure, but he chose **this** hospital. He was here because **she** might be.
+> There's an intake photo. Mainland clinic. Scar above the left ear, glass, years ago, I **think** it was her. Total reconstruction, maybe. New name. New life. I could be connecting dots that aren't, except De Worsti needed the surgery, sure, but he chose **this** hospital. He was here because **she** might be.
 >
 > (almost pleading)
 >
 > I'm telling you what I believe. I'm not saying she did anything tonight. Genevieve just wanted to **run**. That's what I keep coming back to. She wanted out. Not… this.
 
-**LACEY** (PLAYER: mandatory; controlled, not crumbling):
+**LACEY** (mandatory; do not skip):
 
 > You don't know what you're talking about.
 
-**ALFIE** (PLAYER: quiet, protective):
+**ALFIE** (quiet, protective):
 
 > I know enough that I didn't want to say it like this.
 
-**LACEY** (PLAYER: stands; ice, not confession):
+**LACEY** (stands; not confession):
 
 > Officer. You want the truth from me? Fine.
 >
@@ -532,33 +542,33 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 > (cold)  
 > Someone killed him in an operating theater. I was two floors up in administration. If your logs say otherwise, read them. But don't let that ghost put words in my mouth.
 
-**MELODY** (PLAYER: support, after Alfie only; firmer than Alfie):
+**MELODY** (support, after Alfie only; firmer than Alfie):
 
 > …The archival intake binders don't lie. I wondered why you looked familiar. Pre op photos. Before the reconstruction. If he's right, that's Genevieve.
 
-**CURIE** (PLAYER: authoritative doubt, not obstruction; room hangs on it):
+**CURIE**:
 
 > Officer, run every log you have. I've said that all night.  
 > (to the room)  
-> Clinically? A director with that history is a **motive**, not a mechanism. The incision was surgeon's work. The paralysis was pharmacy work. Lovely's tier fits access, not the cut. Unlikely she'd personally finish him on the table.  
+> Clinically? A director with that history is a **motive**, not a mechanism. The throat was opened with a scalpel in a violent, almost crazed stroke. That could be a surgeon. It could be Homes in a rage. Lovely's tier fits access, not the blade. Unlikely she'd personally finish him on the table.  
 > (beat, meets Ray's eyes)  
 > Still a live lead. Especially if someone else held the blade for her. Don't drop it on my account.
 
-**PEPPER** (PLAYER: **ahem**).
+**PEPPER** (**ahem**).
 
-**HOMES** (PLAYER: snapped):
+**HOMES** (snapped):
 
 > Are we solving a murder or watching you two eye fuck over the evidence?
 
-**CURIE** (PLAYER: pleasant, surgical):
+**CURIE**:
 
 > Doctor, your alibi is still bleeding. I'd focus.
 
-**RAY** (PLAYER, cutting, but not at Curie):
+**RAY** (cutting, but not at Curie):
 
 > I'm not dropping it. Someone opened the vault. Someone killed the lights. Someone with the keys. And a dead man who came here chasing a woman who just wanted to get away.
 
-**PEPPER** (PLAYER: optional, if affair secret is out):
+**PEPPER** (optional, if affair secret is out):
 
 > I loved him. I need you to hear that. And I need you to hear that I didn't know... Genevieve. The fire. Any of it. He wasn't… he wasn't just difficult. He was what Alfie said. And the people who cut his throat still sat with us at that table.
 
@@ -570,9 +580,10 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 > The storm is thinning. You can hear it in the walls, less scream, more drain.  
 > Genevieve is in the room, whatever name she wears.  
-> You have surgical precision, executive access codes, a blackout that obeyed no accident protocol, and a victim who weaponized debt and fists the way others weaponize scalpels.  
-> Officer Ray is still the head of security here. Officer Diamond is with him. The real watch is close, sirens somewhere below the flood line, getting closer.  
-> Before they walk through that door, this room decides: **one suspect, or the pair.** Then choose what kind of city Lesbian City becomes tonight.
+> The real cops are close, sirens somewhere below the flood line, getting closer.  
+> Before they walk through that door, this room decides: one suspect. Or is it more?
+>
+> It's up to them to choose what kind of city Lesbian City becomes tonight.
 
 *The facilitator collects accusation ballots and moral verdict ballots. Debate. Vote. Then listen to the ending.*
 
@@ -586,37 +597,33 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 > The wind dropped like a held breath.  
 > First the generators steadied. Then, distant, then close, sirens.  
-> Municipal Watch. Real patrol. Flood lights through the glass. Boots in the lobby. Radios that weren't hospital channels.
+> Municipal Watch. Flood lights pouring out through the glass. There was the sound of boots in the lobby and radios that weren't hospital channels.
 
-**RAY** (PLAYER, exhausted, to the room):
+**RAY** (exhausted, to the room):
 
 > That's them. Finally.  
 > Whatever you picked in this room, names, proof, who did what. It's theirs now.
 
-> **RAY:** Case number's LC-4471. Was my problem until about a minute ago.
+### NARRATOR: THE TRUTH
 
-*Optional lines if the room accused correctly and your character is named:*
-
-**HOMES** (optional):
-
-> I told you. I told all of you.
-
-**PEPPER** (optional):
-
-> You were in the OR with us. You were *helping* us think.
-
-**LACEY** (optional):
-
-> My name was Genevieve. He hunted me here.
-
-**CURIE** (optional):
-
-> You have the timeline right. You don't have my regret.
-
-**DIAMOND** (optional, if you volunteered a wild theory that landed):
-
-> I told y'all. I told y'all in Act Two and you laughed.
-
----
+> Long before the operating table, before the storm, before the red emergency lights, there was a locked house and a woman called Genevieve learning how to become smaller than a man's rage.
+>
+> De Worsti made debt into religion. He called cruelty discipline. He called possession love. Behind security doors and polished glass, he broke people down to what they could pay, and when money was gone, he took silence, obedience, blood.
+>
+> Genevieve ran when she finally could. She paid for a new face with fear and cash and sleepless years. She took a new name, Lacey Lovely, and built an administrative empire out of rules, schedules, and controlled doors. She told herself survival was enough.
+>
+> It was not enough for De Worsti.
+>
+> He found the thread, clinic photos, reconstruction records, a scar above the left ear, and followed it back to St. Saphicca's. He arrived as a patient and predator, smiling through intake, already planning what he would reclaim.
+>
+> Officer Ray watched De Worsti ruin one of the few people he still cared about, took a security post to stay close, and swore revenge. When De Worsti booked real surgery in Lacey's wing, Ray accelerated a plan the room would mistake for medical conspiracy.
+>
+> Vault access opened the path. Potassium chloride prepared the room. Backup power failed at exactly the right minute. Sedation lagged the witnesses. In darkness, one trained hand drove a scalpel through his throat in a violent, almost crazed stroke. Then noise, panic, blood on the wrong gloves, and Dr. Homes framed by timing and terror while Curie became the obvious red herring.
+>
+> By sunrise, the script was cracked open. Logs matched toxicology. Access trails matched alibis that were too perfect. Fear matched opportunity. And for once in Lesbian City, the rich did not buy the ending.
+>
+> De Worsti died the way he made others live, trapped, cornered, at the mercy of people he thought he owned.  
+> Ray did not walk free into dawn. He walked in chains beside the friend he tried to protect.  
+> Justice arrived late, soaked through, and incomplete. But it arrived.
 
 **END OF NIGHT.**

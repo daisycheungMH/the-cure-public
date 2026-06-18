@@ -2,7 +2,7 @@
 
 CHARACTER NAME: Officer Diamond  
 AGE: 29  
-OCCUPATION: Junior Security Officer, St. Jude's (ex–Municipal Watch)
+OCCUPATION: Junior Security Officer, St. Saphicca's (ex–Municipal Watch)
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -29,7 +29,7 @@ Honey drawl, brutal honesty, outlandish theories in plain English. You are junio
 ## 2. BACKSTORY & VICTIM
 
 **Connection**
-Alex was a VIP patient in your wing tonight; you did not owe him money, but you do owe Ray your job.
+De Worsti was a VIP patient in your wing tonight; you did not owe him money, but you do owe Ray your job.
 
 **History**
 
