@@ -7,34 +7,51 @@ OCCUPATION: Chief of Surgery and medical liaison on De Worsti's death
 ## 1. PUBLIC PERSONA & TRAITS
 
 **Look**
-You wear impeccable scrubs or a blazer, keep steady hands, and make warm eye contact. You give off prince charming energy without trying.
+You look warm, polished, and easy to trust. Wear a white button up with a white coat or formal coat, or wear blue scrubs, and add a tie, stethoscope, or chart if you want.
 
 **Likes**
 
-- violent scalpel work that still lands
+- scalpel work
 - competent partners
-- Ray's instincts (even when they get close)
-- being the calm anchor in a panicked room
+- pottery
 
 **Dislikes**
 
-- Homes's ego
-- De Worsti
-- sloppy investigations into Lacey (you quietly steer those away)
-- cruelty that serves no purpose
+- Homes's ego and your rivalry with him
+- VIP theatrics
+- cruelty
 
 **Vibe**
-You are witty, generous, and seriously professional — a naive social butterfly who is genuinely friends with almost everyone in the wing. You shut down flirtation with a smile. Only Homes finds you obnoxious. Deep trauma lives under the charm, but you never show it. You assume good faith because you usually get it back.
+You are warm, generous, and professionally serious. Your optimism is real, not an act, but in a murder wing it can read suspicious. **Dr. Homes** is your rival. **Lacey Lovely** is one of your closest friends and your public partner in this investigation.
+
+**Play in public**
+
+- Stand with **Lacey** openly. Back her leads, share medical reads, and let the room see you as allies.
+- You know Ray is her father, but you do not advertise it. Treat him like security chief until evidence surfaces.
+- Never block for Ray and Lacey as a pair. Block for Lacey when the medicine or the logs support it.
 
 ## 2. BACKSTORY & VICTIM
 
+**Who you are**
+
+- You are Chief of Surgery and the wing's medical liaison. Staff and donors like you. You make hard nights feel survivable.
+- **Lacey Lovely** is a close friend. You know Ray is her father and you have watched that reunion mean everything to both of them. You would protect her without thinking twice.
+- **Dr. Homes** is your professional rival. He thinks your warmth is theatre. You think his ego wastes OR time. You respect each other's hands and needle each other constantly.
+- You do pottery to keep your hands steady. Half the wing has heard about your kiln.
+
 **Connection**
-De Worsti was tonight's VIP patient, and the man who burned your family home and hunted Genevieve.
+De Worsti was tonight's VIP patient. You had never met him before he booked into St. Saphicca's.
 
 **History**
 
-- You grew up with Genevieve (now Lacey Lovely) at a regional youth sanctuary, failed to stop her marriage to De Worsti and what came after, and after she fled De Worsti torched your family home until everyone inside died.
-- You wanted Alex dead. You did not kill him. Officer Ray runs this investigation, and the room will mistake your motive and your skill for guilt.
+- When his case landed in your wing, he was just another difficult VIP with no personal history attached.
+- You did not kill him. Officer Ray runs this investigation, and the room may still mistake your surgical skill and corridor access for guilt.
+
+**Opportunity**
+You carry surgery chief OR clearance. You were in the eastern VIP corridor during the blackout. Your keycard log names you at the OR reader during the kill window, but you were in the corridor and someone lifted the badge without you noticing.
+
+**Earlier tonight (roughly 8 to 11 p.m.)**
+You worked liaison checkpoints and the VIP corridor. You kept professional distance from the VIP and stayed out of the OR until the code dropped.
 
 ## 3. ALIBI (11:42 p.m.)
 
@@ -42,10 +59,10 @@ De Worsti was tonight's VIP patient, and the man who burned your family home and
 You were in the eastern VIP corridor and at liaison checkpoints, not in the OR at the moment of the kill.
 
 **Backup**
-Staff saw you moving in the corridor, and Ray trusts your partnership on the investigation. You can feel that he respects you — that is why you do not suspect him.
+Staff saw you in the corridor. Ray trusts you on the investigation, and you trust him back.
 
 **Hide (minor)**
-You considered violence when De Worsti's booking landed. You did not act. If pressed, say you were coordinating triage from the corridor. You never realised your OR keycard left your person that night until the evidence names it. With this many colleagues who hug you in passing, you cannot narrow down who might have lifted it.
+If pressed, say you were coordinating triage from the corridor. You did not notice your OR keycard was gone until the evidence names it.
 
 ## 4. SECRET OBJECTIVE
 
@@ -54,12 +71,20 @@ Protect Lacey, survive the red herring heat, and help the room find the truth wi
 
 **Plan**
 
-- Build a warm partnership with Ray. Light flirtation keeps you at the table, but never openly block leads that point away from Lacey. You trust his respect for you; do not play paranoid.
-- When access logs surface, be honestly baffled — your card, your OR clearance, but you were in the corridor. That contradiction is real to you, not a performance.
-- Offer real medical insight. Tell Ray a lead seems unlikely but is still worth running.
-- When the room chases your sanctuary bond or surgical skill, stay calm. Homes's irritation makes him look guiltier; your charm makes you look guiltier. Use both.
+- Ally openly with Lacey on the investigation. Let the room see you two as a team.
+- Partner with Ray on procedure. Flirt lightly. Do not openly block leads away from Lacey unless you have a reason on the merits.
+- When access logs surface, be honestly baffled. You were in the corridor and cannot name who took your card.
+- Offer real medical insight when asked.
+- If the room chases your friendship with Lacey or your surgical skill, stay calm. Needle Homes when he deserves it.
+
+## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
+
+- **Early:** Blood pattern and staff down before the cut point away from a simple OR rage story.
+- **Mid:** Toxicology clears Jetski and Pepper. Power and vault logs point to admin or security tier, not surgery chief.
+- **Late:** Torn keycard page and mainframe name your badge, not your body. Corridor witnesses back you.
+- **Never:** Confess to a cut you did not make.
 
 ## ⚠️ RULES
 
-- **✓** Use charm lines, praise, dry flirt, and medical jargon.
-- **✗** Do not confess to the murder. Do not break with Lacey. Do not openly block Ray when he digs into Lacey.
+- **✓** Charm, praise, dry flirt, medical jargon, angel's advocate upside, and public alliance with Lacey.
+- **✗** Do not confess. Do not break with Lacey. Do not blow Ray and Lacey's cover before evidence surfaces.

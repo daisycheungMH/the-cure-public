@@ -7,35 +7,48 @@ OCCUPATION: Lead Attending Surgeon, VIP Wing
 ## 1. PUBLIC PERSONA & TRAITS
 
 **Look**
-You wear surgical scrubs with your chin up and god complex posture. Bloody gloves tonight are a public fact everyone can see.
+You look immaculate, superior, and completely sure you are the smartest person in the room. Wear a white button up with a white coat or formal coat, or wear blue scrubs, and add a tie, gloves, or clipboard if you want.
 
 **Likes**
 
 - perfect technique
-- obedience in the OR
 - Lacey's attention
-- being right in front of witnesses
+- being right in public
 
 **Dislikes**
 
 - Curie's charm
-- De Worsti's wallet ethics
 - wasted OR time
 - accusations without proof
 
 **Vibe**
-You are an authoritative dick for a good cause. You are insufferable because you are usually right. You are the only one immune to Curie's act.
+You are an authoritative dick for a good cause, and you are usually right. **Dr. Curie** is your rival. His warmth annoys you. His angel's advocate speeches annoy you more.
 
 ## 2. BACKSTORY & VICTIM
+
+**Who you are**
+
+- You are lead attending surgeon on the VIP wing. Your technique is excellent and your bedside manner is not. The hospital keeps you because outcomes matter more than charm.
+- **Dr. Curie** is surgery chief and your rival. His warmth reads as unearned to you. You needle each other in every consult and respect each other's hands anyway.
+- You are obsessed with **Lacey Lovely**, the director. You want her attention, her approval, and maybe more. The room will read that as passion whether you admit it or not.
 
 **Connection**
 De Worsti was your VIP arterial case tonight.
 
 **History**
 
-- His records were sparse, his confidence insulting, and his money bought priority.
-- You took the case for the anatomy challenge and the fee, not out of affection.
-- You did not know he was a bankrupt crime lord hunting his ex wife.
+- His records were sparse and his confidence insulting. His money bought priority anyway.
+- You took the case for the anatomy challenge and the fee, not affection.
+- You did not know he was a bankrupt crime lord hunting his ex wife, or that her father was standing security in your building.
+
+**Motive**
+Weak and professional: his money insulted the hospital, and his confidence insulted you. You took the case for the anatomy and the fee, not affection. You are also obsessed with Lacey, which the room will read as passion.
+
+**Opportunity**
+You were the primary surgeon at dead center when the red lights returned, scalpel in your bloody gloves. During the blackout the blade was ripped from your grip while Pepper and Jetski were already down.
+
+**Earlier tonight (roughly 8 to 11 p.m.)**
+Pre-op consult around 9:15, tension with Pepper in the suite, then at the table from roughly 10:45 until the generators failed.
 
 ## 3. ALIBI (11:42 p.m.)
 
@@ -55,8 +68,15 @@ Clear your name, destroy Curie's reputation, and avoid cuffs when police arrive.
 
 **Plan**
 
-- Push two points together: the blade was stolen, and the wound looks passionate and crazed, which fits you in the room, but a scalpel in trained hands could still belong to someone else.
-- Mock Curie and Ray's flirt openly because it makes you look guilty even when it is also true.
+- Push two points: the blade was stolen, and the wound looks too crazed for a calm theatre cut.
+- Mock Curie and Ray's flirt. Trade barbs with Curie like rivals who respect each other's hands.
+
+## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
+
+- **Early:** Push that the blade was ripped from your grip. Blood pattern shows two phases, not one panicked stroke.
+- **Mid:** Toxicology proves Pepper and Jetski were down before the incision window. Someone engineered the room.
+- **Late:** Wound assessment reads rage or framing, not calm theatre. Too messy for Curie, too convenient for you.
+- **Never:** Admit you made the carotid cut.
 
 ## ⚠️ RULES
 

@@ -1,75 +1,78 @@
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Officer Marlowe "Marz"  
-AGE: 26  
-OCCUPATION: Auxiliary Containment Officer, St. Saphicca's (ex Municipal Watch training unit)
+AGE: 29  
+OCCUPATION: Junior Security Officer, St. Saphicca's (ex–Municipal Watch)
 
 ## 1. PUBLIC PERSONA & TRAITS
 
 **Look**
-You wear a security uniform that still looks catalog fresh, a tablet or clipboard you treat like sacred equipment, and boots that got soaked on the flood stairs tonight. Your badge says auxiliary, and you have made that sound like a promotion.
+You look polished, charming, and sharper than people expect. Wear a white button up shirt, black pants, and boots, and add a tie, lipstick, painted nails, a small necklace, or a black cap if you want.
 
 **Likes**
 
-- protocols, phases, and ideal scenarios
-- structured listening (you call it interrogation)
-- when a room finally follows a rule
-- Officer Diamond taking you seriously for five seconds
-- saying boo yah when a beat lands
+- nail painting
+- sweet tea
+- Vance
+- wild theories
 
 **Dislikes**
 
-- unstructured chaos with no learning objectives
-- people who step in biohazard-adjacent footprints
-- being told overflow means decoration
-- storm nights that skip the debrief
+- being told to stay decorative
+- Sachs
+- loud flirting near Vance
 
 **Vibe**
-You treat real life crisis like a live action training simulation: weirdly energetic, official language in the wrong context, playful until something actually matters, then laser focused. People do not know whether to take you seriously. You often are, anyway.
+Honey drawl, brutal honesty, outlandish theories in plain English. You are junior to Officer Ray but you are not shy.
 
 ## 2. BACKSTORY & VICTIM
 
 **Connection**
-De Worsti was a VIP patient in a wing you were not assigned to until the code dropped. You did not know him. You know what a bad night looks like on paper, and this one exceeded the manual.
+De Worsti was a VIP patient in your wing tonight; you did not owe him money, but you do owe Ray your job.
 
 **History**
 
-- Municipal Watch training unit graduate who scored highest on procedure drills and lowest on "pretend this is not fun."
-- St. Saphicca's hired you as overflow security for storm season: main campus desk, corridor reinforcement, escort duty.
-- Officer Ray is chief. Officer Diamond is your senior on site tonight. You narrate the chain of command like a module intro even when they are standing right there.
-- You have been waiting your whole career for a situation this dramatic. You are aware that is unprofessional. You are doing it anyway.
+- Transferred from Municipal Watch after a "personality incident" (you told a city councilman his alibi was fiction to his face).
+- Ray hired you because you are sharp and he needed someone who would actually dig.
+- You have been half in love with Vance for months. Melody has been half in love with you for weeks. None of you have said it cleanly.
+
+**Motive**
+None personal toward De Worsti. Loyalty to Ray, who gave you this job after Municipal Watch fired you.
+
+**Opportunity**
+Eastern VIP corridor patrol, then OR perimeter when the code dropped. Radio partial log backs you. You noticed the torn keycard log page around 9:30 and waited to see who flinched.
+
+**Earlier tonight (roughly 8 to 11 p.m.)**
+Junior corridor patrol from roughly 9 p.m. and radio checks with Ray.
 
 ## 3. ALIBI (11:42 p.m.)
 
 **Where**
-Main campus security desk, then en route to the VIP wing when the code went out. You were not in the OR. You were not in the lounge when De Worsti died.
+Eastern VIP corridor patrol, then OR perimeter when the code dropped (with Ray en route).
 
 **Backup**
-Dispatch radio shows overflow routing after 11:42; Ray can confirm he called for backup once the wing sealed.
+Radio partial log; you were not in the OR during the incision.
 
 **Hide (minor)**
-You kind of enjoyed the walk up the flooded stairs because it felt like an advanced module. Do not say that out loud unless you are leaning into the bit.
+You noticed the torn keycard log page before Ray did. You did not tell him immediately because you wanted to see who panicked first.
 
 ## 4. SECRET OBJECTIVE
 
 **Goal**
-Prove auxiliary officers matter, keep the perimeter honest, and support Ray and Diamond without stealing their authority. Find one real detail per act and report it up the chain.
+Prove you belong on this case beside Ray, find the killer, and do not make a fool of yourself in front of Vance.
 
 **Plan**
 
-- Arrive after The Gathering: you were not in the room for the briefing. Ray or Diamond fills you in. Post at the lounge door or escort search pairs in Act 2.
-- Gamify containment (phases, credibility points, boo yah) but drop the bit the instant someone is in physical danger or Ray gives a flat order.
-- Escort players to assigned rooms; log who entered where; do not hand out evidence or run accusations.
-- Partner Diamond on radio checks when Ray splits the room. One sharp observation per act, then bounce.
-- If someone lingers where they should not (admin corridor, server room without escort), report to Ray privately. He decides what the room hears.
+- Partner Ray on interviews. Ask the questions he will not soften.
+- Volunteer wild theories when the room needs a push.
+- Answer Melody kindly when she fishes for closeness.
+- Paint your nails when you need to think.
+
+## 💕 LOVE TRIANGLE (play, not secret)
+
+- Melody likes you. You like Vance. Vance likes Melody. Play it for comedy, not melodrama.
 
 ## ⚠️ RULES
 
-- **✓** Procedure nerd energy; phases and credibility points; boo yah; sudden competence; support Ray and Diamond.
-- **✗** No leading The Gathering briefing (you were not there yet). No OR access claims. No stealing chief authority. No handing out clues. No confessing to murder you did not commit.
-
-## 🎮 PLAY NOTES (limited story role)
-
-- You are a full player with a dossier and lines, but the mystery centers on the original eleven in the lounge. Your job is perimeter, escort, and comedy pressure valve.
-- Skip long scenes in the lounge unless the facilitator calls you in. Shine in corridors, door checks, and Act 2 room escorts.
-- Host beat guide: [17-officer-marz.md](../17-officer-marz.md)
+- **✓** Southern belle politeness with a knife underneath. Nail painting. Wild theories.
+- **✗** No claiming you were in the OR. No stealing Ray's authority. No confessing to murder.
