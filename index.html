@@ -1,1 +1,235 @@
-<!doctype html><html><head><meta charset='utf-8'><meta http-equiv='refresh' content='0; url=player-pack/index.html'><title>The Cure Player Pack</title></head><body><p>Redirecting to <a href='player-pack/index.html\?v=16'>player pack</a>...</p></body></html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="The Cure: a live action medical thriller at St. Saphicca's Progressive Care."
+    />
+    <title>The Cure — Player Pack</title>
+    <style>
+      :root {
+        --bg-fallback: #0a0a0a;
+        --surface: rgba(20, 20, 20, 0.85);
+        --border: rgba(255, 255, 255, 0.12);
+        --text: #ffffff;
+        --text-muted: #b3b3b3;
+        --accent: #e50914;
+        --accent-hover: #c40812;
+        --radius: 3px;
+        --font: "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        min-height: 100%;
+        color: var(--text);
+        font-family: var(--font);
+        line-height: 1.5;
+        background: var(--bg-fallback);
+      }
+
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        z-index: -2;
+        background: var(--bg-fallback)
+          url("player-pack/assets/hospital-bg.jpg") center / cover no-repeat;
+        filter: grayscale(40%) brightness(0.35);
+      }
+
+      body::after {
+        content: "";
+        position: fixed;
+        inset: 0;
+        z-index: -1;
+        background: linear-gradient(
+          180deg,
+          rgba(0, 0, 0, 0.7) 0%,
+          rgba(0, 0, 0, 0.45) 40%,
+          rgba(0, 0, 0, 0.88) 100%
+        );
+        pointer-events: none;
+      }
+
+      .page {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 24px 16px 48px;
+      }
+
+      .card {
+        width: min(100%, 480px);
+        text-align: center;
+        padding: 32px 24px 28px;
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        background: var(--surface);
+        box-shadow: 0 24px 48px rgba(0, 0, 0, 0.55);
+      }
+
+      .hero-mark {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+      }
+
+      .pulse-line {
+        width: 120px;
+        height: 32px;
+        overflow: visible;
+      }
+
+      .pulse-line path {
+        fill: none;
+        stroke: var(--accent);
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-dasharray: 180;
+        stroke-dashoffset: 180;
+        animation: ekg-draw 2.5s ease-in-out infinite;
+      }
+
+      @keyframes ekg-draw {
+        0% {
+          stroke-dashoffset: 180;
+          opacity: 0.4;
+        }
+        40% {
+          stroke-dashoffset: 0;
+          opacity: 1;
+        }
+        60% {
+          stroke-dashoffset: 0;
+          opacity: 1;
+        }
+        100% {
+          stroke-dashoffset: -180;
+          opacity: 0.4;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .pulse-line path {
+          animation: ekg-pulse 2.5s ease-in-out infinite;
+          stroke-dashoffset: 0;
+        }
+
+        @keyframes ekg-pulse {
+          0%,
+          100% {
+            opacity: 0.5;
+          }
+          50% {
+            opacity: 1;
+          }
+        }
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: clamp(1.75rem, 5vw, 2.5rem);
+        font-weight: 700;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        line-height: 1.15;
+        text-shadow: 0 2px 12px rgba(0, 0, 0, 0.8);
+      }
+
+      .subtitle {
+        margin: 0 0 20px;
+        color: var(--text-muted);
+        font-size: 1rem;
+      }
+
+      .tagline {
+        margin: 0 0 24px;
+        color: var(--text-muted);
+        font-size: 0.9rem;
+        font-style: italic;
+      }
+
+      .cta {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        min-width: 220px;
+        padding: 14px 24px;
+        border: 1px solid var(--accent);
+        border-radius: var(--radius);
+        background: var(--accent);
+        color: #fff;
+        font: inherit;
+        font-size: 1rem;
+        font-weight: 600;
+        letter-spacing: 0.04em;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background 0.15s, border-color 0.15s;
+      }
+
+      .cta:hover {
+        background: var(--accent-hover);
+        border-color: var(--accent-hover);
+      }
+
+      .cta:focus-visible {
+        outline: 2px solid var(--accent);
+        outline-offset: 3px;
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px 16px;
+        margin: 24px 0 0;
+        padding-top: 20px;
+        border-top: 1px solid var(--border);
+        color: var(--text-muted);
+        font-size: 0.8rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+      }
+
+      .footer {
+        margin: 16px 0 0;
+        color: var(--text-muted);
+        font-size: 0.8rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <div class="card">
+        <div class="hero-mark" aria-hidden="true">
+          <svg class="pulse-line" viewBox="0 0 120 32" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 16 H24 L30 6 L36 26 L42 10 L48 22 L54 16 H120" />
+          </svg>
+        </div>
+        <h1>The Cure</h1>
+        <p class="subtitle">St. Saphicca&apos;s Progressive Care</p>
+        <p class="tagline">Was this murder&hellip; or justice?</p>
+        <a class="cta" href="player-pack/index.html?v=17">Open player pack</a>
+        <div class="meta">
+          <span>11 players</span>
+          <span>3 to 4 hours</span>
+          <span>VIP Wing</span>
+        </div>
+        <p class="footer">Pick your character. Read your dossier. Stay in character.</p>
+      </div>
+    </main>
+  </body>
+</html>
